@@ -17,6 +17,7 @@ namespace LoginApplication.Models
 		public string PhoneNo {get; set;}
 				public string Email { get; set; }
 		public string Koju { get; set; }
+        public string thakur { get; set; }
 		
 
     }
