@@ -17,6 +17,7 @@ namespace LoginApplication.Models
         public string Address { get; set; }
         public string Passang { get; set; }
         public string Report2 { get; set; }
+        public string Sahas { get; set; }
 
     }
 }
