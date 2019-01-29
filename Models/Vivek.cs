@@ -18,7 +18,9 @@ namespace LoginApplication.Models
 				public string Email { get; set; }
 		public string Koju { get; set; }
         public string thakur { get; set; }
-		
+		public string PASANG { get; set; }
+		public string Bishal { get; set; }
 
-    }
+
+	}
 }
