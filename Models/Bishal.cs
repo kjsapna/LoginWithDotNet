@@ -9,7 +9,7 @@ namespace LoginApplication.Models
     {
         public string  Name { get; set; }
         public string Number { get; set; }
-
+        public string thakur1 { get; set; }
 		public string Vivek {get; set;}
 		public string TuladharPasang {get; set;}
 		public string KojuSapna {get; set; }
