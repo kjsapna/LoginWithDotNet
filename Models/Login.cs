@@ -11,5 +11,6 @@ namespace LoginApplication.Models
         public string UserName { get; set; }
         public string Password{ get; set; }
         public string Bishal { get; set; }
+        public string Koju { get; set; }
     }
 }
