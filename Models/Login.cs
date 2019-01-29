@@ -14,6 +14,7 @@ namespace LoginApplication.Models
 
         public string Koju { get; set; }
         public string email { get; set; }
+        public string Address { get; set; }
 
     }
 }
