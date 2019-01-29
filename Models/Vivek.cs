@@ -17,6 +17,6 @@ namespace LoginApplication.Models
 
 
 		public string Email { get; set; }
-        Vivek is an idiot.
+        public int MyProperty { get; set; }
     }
 }
